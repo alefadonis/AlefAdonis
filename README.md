@@ -7,7 +7,7 @@
 
 ----
 
-### Olá e Seja bem-vindx ao meu GitHub 👋
+### Olá e Seja Bem-Vindx ao meu GitHub 👋
 
 - 🔭 Atualmente estou procurando por estágio na área de T.I.
 - 🌱 Na jornada do meu aprendizado, estou atualmente em: Java
