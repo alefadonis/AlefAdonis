@@ -1,6 +1,6 @@
 ### Hello and Welcome to My GitHub 👋
 
-- 🔭 I am, now, looking for internships at I.T. 
+- 💼 I am working at Visagio as a Software Intern
 - 🌱 My learning path is now passing through: Java
 - 👯 Collab with others repos? Text me, i would love to participate
 - 😄 Pronouns: He\his
@@ -9,7 +9,7 @@
 
 ### Olá e Seja Bem-Vindx ao meu GitHub 👋
 
-- 🔭 Atualmente estou procurando por estágio na área de T.I.
+- 💼 Estou trabalhando na Viságio como Estagiário 
 - 🌱 Na jornada do meu aprendizado, estou atualmente em: Java
 - 👯 Colaborar com outros repos? Só chamar que eu estou dentro.
 - 😄 Pronomes: Ele\Dele
