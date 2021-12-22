@@ -1,20 +1,12 @@
+If you think this Github it's a complementetion for my CV, you are totally wrong. I just put here all the things that i am working with and i think its cool to share.
+
 ### Hello and Welcome to My GitHub 👋
 
-- 💼 I am working at Visagio as a Software Intern
-- 🌱 My learning path is now passing through: Java
-- 👯 Collab with others repos? Text me, i would love to participate
-- 😄 Pronouns: He\his
+- 💼 { I am working at Visagio as a Software Intern }
+- 🌱 { My learning path is now passing through: Java }
+- 🕵🏻‍♂️ { Trying to learn cybersecurity } 
+- 😄 { Pronouns: He\his } 
 
-----
-
-### Olá e Seja Bem-Vindx ao meu GitHub 👋
-
-- 💼 Estou trabalhando na Viságio como Estagiário 
-- 🌱 Na jornada do meu aprendizado, estou atualmente em: Java
-- 👯 Colaborar com outros repos? Só chamar que eu estou dentro.
-- 😄 Pronomes: Ele\Dele
-
----
 
 <div>
   <a href="https://github.com/AlefAdonis">
