@@ -3,8 +3,8 @@ If you think this Github it's a complementetion for my CV, you are totally wrong
 ### Hello and Welcome to My GitHub 👋
 
 - 💼 { I am working at Visagio as a Software Intern }
-- 🌱 { My learning path is now passing through: Java }
-- 🕵🏻‍♂️ { Trying to learn cybersecurity } 
+- 🌱 { My learning path is now passing through: Web Develpment }
+- 🕵🏻‍♂️ { Trying to learn neuroscience } 
 - 😄 { Pronouns: He\his } 
 
 
