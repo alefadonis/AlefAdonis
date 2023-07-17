@@ -7,15 +7,7 @@ If you think this Github it's a complementetion for my CV, you are totally wrong
 - 🕵🏻‍♂️ { Trying to learn neuroscience } 
 - 😄 { Pronouns: He\his } 
 
-
-<div>
-  <a href="https://github.com/AlefAdonis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefAdonis&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefAdonis&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
-</div>
-
-  ##
-  
+---
 <div style="display: inline_block"><br>
   <a href="https://www.javascript.com/">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
