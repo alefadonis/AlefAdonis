@@ -2,7 +2,7 @@ If you think this Github it's a complementetion for my CV, you are totally wrong
 
 ### Hello and Welcome to My GitHub 👋
 
-- 💼 { I am working at Visagio as a Software Intern }
+- 💼 { I am working at Visagio as a Software Engineer Part-Time }
 - 🌱 { My learning path is now passing through: Web Development }
 - 🕵🏻‍♂️ { Trying to learn neuroscience } 
 - 😄 { Pronouns: He\his } 
