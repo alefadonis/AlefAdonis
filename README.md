@@ -1,4 +1,4 @@
-If you think this Github is a complementation of my CV, you are partially right. I just put here all the things that I am working with and it's cool to share.
+If you have any ideas that can help evolve my projects, please, do not hesitate to collaborate! I am always trying to expand my knowledge and to participate in the Open Source Community!
 
 ### Hello and Welcome to My GitHub 👋
 
