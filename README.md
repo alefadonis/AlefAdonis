@@ -1,9 +1,9 @@
-If you think this Github it's a complementetion for my CV, you are totally wrong. I just put here all the things that i am working with and i think its cool to share.
+If you think this Github is a complementation of my CV, you are partially right. I just put here all the things that I am working with and it's cool to share.
 
 ### Hello and Welcome to My GitHub 👋
 
 - 💼 { I am working at Visagio as a Software Engineer Part-Time }
-- 🌱 { My learning path is now passing through: Web Development }
+- 🌱 { My learning path is now passing through: Web Development and Artificial Intelligence}
 - 🕵🏻‍♂️ { Trying to learn neuroscience } 
 - 😄 { Pronouns: He\his } 
 
