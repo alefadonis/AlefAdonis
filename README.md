@@ -2,7 +2,7 @@ If you have any ideas that can help evolve my projects, please, do not hesitate 
 
 ### Hello and Welcome to My GitHub 👋
 
-- 💼 { I am working at Visagio as a Software Engineer Part-Time }
+- 💼 { I am open to new paths }
 - 🌱 { My learning path is now passing through: Web Development and Artificial Intelligence}
 - 🕵🏻‍♂️ { Trying to learn neuroscience } 
 - 😄 { Pronouns: He\his } 
